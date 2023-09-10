@@ -47,5 +47,7 @@ where the env varibale greeting, provided by the terraform code, is used for for
 
 ![function created in aws](<screenshots/aws_lambda function.png>)
 
+## Documentation 
 
+You can check an example here: https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/lambda_function
 
